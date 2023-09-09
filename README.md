@@ -1,4 +1,6 @@
 # Netflix_Movies_and_TV_Shows_Dashboard
+
+Objective: Analyzing the captivating world of Netflix content to uncover fascinating insights.
  
 Dashboard Highlights:
 1. Top Picks: Visualizing the highest-rated movies and TV shows based on user ratings and reviews.
